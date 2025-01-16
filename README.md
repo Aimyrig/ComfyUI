@@ -128,6 +128,7 @@ There is a portable standalone build for Windows that should work for running on
 Simply download, extract with [7-Zip](https://7-zip.org) and run. Make sure you put your Stable Diffusion checkpoints/models (the huge ckpt/safetensors files) in: ComfyUI\models\checkpoints
 
 If you have trouble extracting it, right click the file -> properties -> unblock
+Here is the Installation Guide - : https://www.youtube.com/watch?v=ersqJT4XIrQ
 
 #### How do I share models between another UI and ComfyUI?
 
